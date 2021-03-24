@@ -5,6 +5,7 @@ import * as postService from './services/postService'
 import Header from './components/Header/Header';
 import Menu from './components/Menu/Menu';
 import Main from './components/Main/Main';
+import Footer from './components/Footer/Footer'
 
 import style from './App.module.css';
 
@@ -50,6 +51,8 @@ class App extends Component {
             posts={this.getPosts()}
           />
         </div>
+
+        <Footer />
       </div>
     );
   }
