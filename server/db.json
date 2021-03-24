@@ -9,6 +9,11 @@
             "id": 2,
             "content": "Some content here 2",
             "author": "Gosho"
+        },
+        {
+            "id": 3,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ab culpa, explicabo sequi quibusdam sunt! Laboriosam quo ipsam perspiciatis praesentium quisquam itaque optio repudiandae eaque perferendis dignissimos. Dolor, voluptas magni.",
+            "author": "Stamat"
         }
     ]
 }
